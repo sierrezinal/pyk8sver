@@ -38,7 +38,7 @@ Setup
 Example
 =======
 
-.. sourcecode: python
+.. sourcecode:: python
 
      from pyk8sver import app
      o = app.Kubernetes('your-github-access-token')
